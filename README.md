@@ -9,7 +9,7 @@ features:
 - title: Improved Gameplay
   details: Canyon fixes bugs in Beta 1.7.3 and adds other features to improve gameplay.
 - title: Performant Server
-  details: Enjoy async chunk loading (coming soon), more intelligent chunk sending, and a completely rewritten network stack that will make your server feel snappy.
+  details: Enjoy async chunk loading, more intelligent chunk sending, and an improved network stack that will make your server feel snappy.
 - title: Mod Support
   details: "Coming soon: Canyon will feature support for ModLoaderMP, allowing you to mod the server as needed."
 footer: MIT Licensed | Copyright © 2019-present Canyon Team
