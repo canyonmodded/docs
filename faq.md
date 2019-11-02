@@ -29,7 +29,7 @@ Yes, but take note of the complex licensing structure of the project:
   However, it also patches proprietary Mojang code as well. Canyon has, for now, "grandfathered" the existing
   CraftBukkit structure.
 * Canyon's patches on top of CraftBukkit are licensed under the [MIT License](https://opensource.org/licenses/MIT).
-  These patches are incorporated into the existing CraftBukkit code base or patch decompiled proprietary
+  These patches are either incorporated into the existing CraftBukkit code, or patch decompiled proprietary
   Mojang code.
 
 When you contribute to Canyon, you agree to make your changes under the MIT License, as with

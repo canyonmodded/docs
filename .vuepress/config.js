@@ -8,6 +8,7 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Guide', link: '/guide/' },
+            { text: 'FAQ', link: '/faq.html' },
             { text: 'Demo Server', link: '/demo' }
         ],
         sidebar: {
